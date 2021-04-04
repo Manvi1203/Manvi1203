@@ -16,9 +16,9 @@ I am an electrical undergrad who loves to code . Currently I am studying in __NS
 
 
 
+[![Manvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manvi1203)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manvi1203&theme=radical) --> 
 
-<center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manvi1203&" alt="Manas1820" /></center>
+
 
