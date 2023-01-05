@@ -15,7 +15,6 @@ I am an electrical undergrad who loves to code . Currently I am studying in __NS
 - 💬 Ask me about anything , Would love to answer them.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manvi1203&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
