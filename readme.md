@@ -9,8 +9,8 @@ I am an electrical undergrad who loves to code . Currently I am studying in __NS
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
 
-- 👯 I’m looking to collaborate on __Basic C++ Projects__.
-- 🌱 I’m currently learning __Web Dev__.
+- 👯 I’m looking to collaborate on __Full Stack Projects __.
+- 🌱 I’m currently learning __Machine Learning__.
 - 🤔 I’m looking for help in __ML Projects__.
 - 💬 Ask me about anything , Would love to answer them.
 
